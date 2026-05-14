@@ -1,18 +1,21 @@
-# Intro Slider — Microblading & Microblading EN (Shared)
+# djdsjd
 
-**Course:** MICROBLADING & MICROBLADING (EN)  
-**Slide:** 1  
-**Live URL:** https://v0-microblading-slider-design.edtechiecorp.com  
-**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages  
+**Course:** Not currently embedded in E-Lumy's Coassemble
+**Live URL:** https://v0-microblading-slider-design.edtechiecorp.com
+**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages
 
-## What this slide does
-
-Shared opening intro slider used by both the French and English microblading courses. Displays the course title, key visual branding, and a brief welcome message that sets the tone for the learning journey. The slider format eases learners into the course with visual impact before moving into theoretical and practical content.
+> Not currently embedded in any E-Lumy course (was MICROBLADING slide 1/2 in original workspace).
 
 ## Screenshot
 
-![djdsjd](./screenshot.png)
+![djdsjd](https://github.com/youssefbarj/djdsjd/raw/main/screenshot.png)
+
+## What this slide does
+
+This is an interactive slide embedded as an iframe inside Coassemble. See the screenshot above for a visual preview of the content.
 
 ## Usage
 
-This slide is embedded as an iframe inside Coassemble at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
+This slide is served via GitHub Pages at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
+
+> **For E-Lumy's tech team:** After migrating this repo to your own GitHub account, re-enable GitHub Pages in Settings → Pages → Source: GitHub Actions. Then update the embed URL in Coassemble to your new deployment URL.
